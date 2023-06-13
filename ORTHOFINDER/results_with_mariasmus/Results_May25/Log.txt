@@ -1,0 +1,35 @@
+2023-05-25 19:55:18 : Started OrthoFinder version 2.5.4
+Command Line: /home/lovelace/proj/proj832/j18/.conda/envs/ORTHOFINDER/bin/orthofinder -I 1.8 -t 16 -a 8 -f ./../data/ -o ./../results_with_mariasmus
+
+WorkingDirectory_Base: ./../results_with_mariasmus/Results_May25/WorkingDirectory/
+
+Species used: 
+0: MDS10.fasta
+1: MDS11.fasta
+2: MDS12.fasta
+3: MDS13.fasta
+4: MDS17.fasta
+5: MDS19.fasta
+6: MDS23.fasta
+7: MDS24.fasta
+8: MDS27.fasta
+9: MDS28.fasta
+10: MDS3.fasta
+11: MDS30.fasta
+12: MDS31.fasta
+13: MDS35.fasta
+14: MDS4.fasta
+15: MDS6.fasta
+16: MDS7.fasta
+17: MDS8.fasta
+18: MDS9.fasta
+19: MDSB1.fasta
+20: MDSP6.fasta
+21: MDSS3.fasta
+22: Marasmius_tenuissimus.fa
+23: Moniliophtera_perniciosa.fa
+24: Moniliopthera_roreli.fa
+
+FN_Orthogroups: ./../results_with_mariasmus/Results_May25/WorkingDirectory/clusters_OrthoFinder_I1.8.txt_id_pairs.txt
+WorkingDirectory_Trees: ./../results_with_mariasmus/Results_May25/WorkingDirectory/
+2023-05-25 20:58:23 : OrthoFinder run completed
